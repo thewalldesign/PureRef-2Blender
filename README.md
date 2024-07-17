@@ -14,3 +14,5 @@ How to use:
 - Copy an image to your clipboard
 - Go to blender, shift+a in object mode
 - Select "Paste Pureref image"
+
+Format support: jpg, png, webp, heic, avif and gif
