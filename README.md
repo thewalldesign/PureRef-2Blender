@@ -16,3 +16,4 @@ How to use:
 - Select "Paste Pureref image"
 
 Format support: jpg, png, webp, heic, avif and gif
+Created by: Martin Fir, Tine Maher
